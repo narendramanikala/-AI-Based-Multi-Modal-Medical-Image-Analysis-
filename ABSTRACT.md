@@ -1,8 +1,7 @@
 # Project Abstract
 
 ## Project Title
-
-AI-Based Multi-Modal Medical Image Analysis and Explainable Disease Diagnosis Using CNN, RAG, and Large Language Models
+AI-Based Multi-Modal Disease Diagnosis
 
 ## Abstract
 
